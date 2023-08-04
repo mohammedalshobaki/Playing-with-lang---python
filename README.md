@@ -20,10 +20,10 @@ cd Playing-with-lang---python/app/src
 ```python
 
 # Set the source directory containing files to be grouped
-src = "./main/files"
+src = "../app/main/files"
 
 ## Set the destination directory where files will be grouped by language
-dest = "./lang"
+dest = "../app/lang"
 ```
 1. Run the main.py script:
 ```bash
